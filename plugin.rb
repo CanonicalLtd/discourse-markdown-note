@@ -4,4 +4,3 @@
 # authors: Robin Winslow
 
 register_asset "stylesheets/notifications.scss"
-
